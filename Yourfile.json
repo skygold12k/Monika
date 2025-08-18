@@ -3,12 +3,18 @@
         "device_id": "device123",
         "key": "key12345",
         "expirydate": "31-12-2025",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "device456",
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
-    }
+    },
+        {
+        "device_id": "0a2798da7128810a",
+        "key": "monika50",
+        "expirydate": "19-08-2025",
+        "Allowoffline": false
+        }
 ]
